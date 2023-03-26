@@ -1,0 +1,31 @@
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\appsettings.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\Clase 2 HProg.staticwebassets.runtime.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\Clase 2 HProg.exe
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\Clase 2 HProg.deps.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\Clase 2 HProg.runtimeconfig.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\Clase 2 HProg.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\bin\Debug\net7.0\Clase 2 HProg.pdb
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.csproj.AssemblyReference.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.AssemblyInfoInputs.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.AssemblyInfo.cs
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.csproj.CoreCompileInputs.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.RazorAssemblyInfo.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.RazorAssemblyInfo.cs
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets\msbuild.Clase 2 HProg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase 2 HProg.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase 2 HProg.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase 2 HProg.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\scopedcss\bundle\Clase 2 HProg.styles.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\scopedcss\projectbundle\Clase 2 HProg.bundle.scp.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\refint\Clase 2 HProg.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.pdb
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\Clase 2 HProg.genruntimeconfig.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 2 HProg\obj\Debug\net7.0\ref\Clase 2 HProg.dll
